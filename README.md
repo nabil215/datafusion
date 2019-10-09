@@ -1,2 +1,2 @@
 # datafusion
-a method for data fusion
+a method for data fusion that use vote method 
